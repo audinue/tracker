@@ -1,0 +1,28 @@
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\bin\Debug\Tracker.exe.config
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\bin\Debug\Tracker.exe
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\bin\Debug\Tracker.pdb
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\bin\Debug\Tracker.xml
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\obj\Debug\Tracker.LoginChildForm.resources
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\obj\Debug\Tracker.LoginForm.resources
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\obj\Debug\Tracker.Resources.resources
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\obj\Debug\Tracker.vbproj.GenerateResource.Cache
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\obj\Debug\Tracker.exe
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\obj\Debug\Tracker.xml
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\obj\Debug\Tracker.pdb
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\obj\Debug\Tracker.Settings.resources
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\obj\Debug\Tracker.Logs.resources
+C:\Users\Audi Nugraha\AppData\Local\Temporary Projects\Tracker\obj\Debug\Tracker.Session.resources
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\bin\Debug\Tracker.exe.config
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\obj\Debug\Tracker.exe
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\obj\Debug\Tracker.xml
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\obj\Debug\Tracker.pdb
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\bin\Debug\Tracker.exe
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\bin\Debug\Tracker.pdb
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\bin\Debug\Tracker.xml
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\obj\Debug\Tracker.LoginChildForm.resources
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\obj\Debug\Tracker.LoginForm.resources
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\obj\Debug\Tracker.Logs.resources
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\obj\Debug\Tracker.Resources.resources
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\obj\Debug\Tracker.Session.resources
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\obj\Debug\Tracker.Settings.resources
+C:\Users\Audi Nugraha\Documents\Visual Studio 2013\Projects\Tracker\obj\Debug\Tracker.vbproj.GenerateResource.Cache
